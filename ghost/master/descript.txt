@@ -1,0 +1,17 @@
+charset,Shift_JIS
+
+
+homeurl,https://raw.githubusercontent.com/kasss-9999/ukagaka-rei/main/
+
+craftman,Kasu
+craftmanw,‚©‚·
+craftmanurl,https://hogehoge.hoge
+
+name,‚¤‚©‚ª‚©‚ê‚¢
+type,ghost
+
+sakura.name,‚¤‚©‚ª‚©‚ê‚¢
+##kero.name,Œ¢
+
+icon,vrei.ico
+shiori,satori.dll

@@ -1,0 +1,10 @@
+Charset,UTF-8
+install,842583262
+homeurl_found,1
+surfacecount,14
+homeurl,https://raw.githubusercontent.com/kasss-9999/ukagaka-rei/main/
+update_result,OK(0)
+firstboot,842583274
+update_time,842609979
+commitmemorysize,761767
+lastboot,842610055
